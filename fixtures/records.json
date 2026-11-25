@@ -88,15 +88,13 @@
       "id": "CON-1",
       "object": "ART-1",
       "position": "before-departure",
-      "observation": "表面无新增裂纹",
-      "sha256": "724c0c467b4e4f2fccb226842876af22cc28a81dc9f361774eb53f1a118deadb"
+      "observation": "表面无新增裂纹"
     },
     {
       "id": "CON-2",
       "object": "ART-2",
       "position": "arrival",
-      "observation": "待开箱复核",
-      "sha256": "80adc78beeeb45f870ff138a8270c61421e1e3c17b47a94c35ca61f9c6186e96"
+      "observation": "待开箱复核"
     }
   ],
   "actors": [
@@ -125,8 +123,7 @@
       "object": "ART-1",
       "receiver": "keeper",
       "seal": "SEAL-1",
-      "state": "未见新增异常",
-      "sha256": "1aec362664d3fef5d82f85f10e3157d5ad1a961b750bf6b5f194cff0cae1b65a"
+      "state": "未见新增异常"
     },
     {
       "id": "ARRIVAL-B",
@@ -134,8 +131,7 @@
       "object": "ART-2",
       "receiver": "keeper",
       "seal": "SEAL-BROKEN",
-      "state": "待修复人员复核",
-      "sha256": "f7ac2faa24a918a2fe5dc60ee5de0fc21468c79eab36ec9dded0315ae2d16ab5"
+      "state": "待修复人员复核"
     },
     {
       "id": "LOAN-SHORTEN",
@@ -152,8 +148,7 @@
       "id": "RETURN-DRAFT",
       "object": "ART-1",
       "sender": "DEPOT",
-      "receiver": "MU-A",
-      "sha256": "b2c23204400f3dec96c27bd6158954b5b79ff0fca75bdcb48dfd670c56da2e04"
+      "receiver": "MU-A"
     }
   ]
 }
