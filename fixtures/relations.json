@@ -1,0 +1,26 @@
+[
+  {
+    "table": "objects",
+    "field": "group",
+    "target": "groups",
+    "nullable": true
+  },
+  {
+    "table": "loanDrafts",
+    "field": "venue",
+    "target": "locations",
+    "nullable": false
+  },
+  {
+    "table": "transports",
+    "field": "policy",
+    "target": "policies",
+    "nullable": false
+  },
+  {
+    "table": "conditionInputs",
+    "field": "object",
+    "target": "objects",
+    "nullable": false
+  }
+]

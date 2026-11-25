@@ -1,0 +1,14 @@
+{
+  "name": "运输保险申报台",
+  "path": "/claims/notices",
+  "lookup": "/claims/notices/",
+  "id": "noticeId",
+  "group": "objects",
+  "key": "Notice-Key",
+  "modes": [
+    "accepted",
+    "rejected",
+    "accepted_disconnect",
+    "pending"
+  ]
+}
